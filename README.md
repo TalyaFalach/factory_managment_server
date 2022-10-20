@@ -10,10 +10,10 @@ An end to end application for factory management, including editing employees, s
 
 The users who are allowed to connect to the site using a username and email are brought from https://jsonplaceholder.typicode.com/users
 
-
-# Server - Python (Flask, pymongo, JWT)
-# client - JavaScript (vanilla js)
-# Database - MongoDB (studio3T)
+# Tools
+Server - Python (Flask, pymongo, JWT)
+client - JavaScript (vanilla js)
+Database - MongoDB (studio3T)
 
 
 # My Experience
